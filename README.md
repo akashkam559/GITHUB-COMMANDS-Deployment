@@ -7,7 +7,7 @@ git init
 
 2).REMOTE-ADD
 -------------
-git remote add origin https://github.com/akashkam559/flightpred.git
+git remote add origin https:// 
 
 
 3).ADD
