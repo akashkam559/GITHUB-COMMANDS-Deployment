@@ -1,19 +1,7 @@
-==================================================================================================
-https://github.com/akashkam559/Flight-Ticket-Fare-Prediction-Flask-WebApp
+#Resume Points/Description
 
-https://github.com/akashkam559/Diabetes-Prediction-Using-Classification-Algorithms
-
-https://github.com/akashkam559/Covid19-Face-Mask-Detector
-
-https://github.com/akashkam559/Election-Voting---Ethereum-Blockchain-dApp
-
-https://github.com/akashkam559/VarsMovies-django-Movie-Web-App.
-
-https://github.com/akashkam559/YouTube-Live-Subscriber-Count-using-Yapiv3
-
-https://github.com/akashkam559/Jarvis---AI-Assistant
-==============================================================================================
-Table of Content
+Resume Points/Description -> Table of Content
+----------------------------------------------
 * Demo
 * Directory Tree
 * Overview
@@ -23,55 +11,3 @@ Table of Content
 * Deployement on Heroku
 * Result/Summary
 * Future scope of project
-================================================================================
-SMALL FILES - Work for all cases
---------------------------------
-git init 
-
-git remote add origin https://
-
-git add .
-
-git commit -m "Initial working commit"
-
-git push origin master --force
-================================================================================
-LARGE FILES/LFS
-----------------
-git init
-
-git remote add origin https://
-
-git add . / git add .gitattributes / git add flight_rf.pkl
-
-git pull 
-
-#git commit -m "Add Comments Test"
-
-git push --set-upstream origin Master -> git push
-git lfs push --all origin master
-git push -u origin master
-git pull --rebase origin master
-git push origin master
----------------------------------------
-git lfs install
-
-git lfs track "*.psd"
-
-git add .gitattributes
-
-git add file.psd
-
-git commit -m "Add design file"
-
-git push origin master
----------------------------------------
-*** Please tell me who you are.
-
-Run
-
-  git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
-
-to set your account's default identity.
-Omit --global to set the identity only in this repository.
