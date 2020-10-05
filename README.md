@@ -1,5 +1,5 @@
 # GITHUB COMMANDS 
-=================================
+
 SMALL FILES - Work for all cases
 ----------------------------------
 git init 
@@ -12,7 +12,7 @@ git commit -m "Initial working commit"
 
 git push origin master --force
 
-===================================
+
 LARGE FILES/LFS
 ----------------
 git init
