@@ -30,6 +30,7 @@ git lfs push --all origin master
 git push -u origin master
 git pull --rebase origin master
 git push origin master
+
 ---------------------------------------
 git lfs install
 
@@ -42,6 +43,7 @@ git add file.psd
 git commit -m "Add design file"
 
 git push origin master
+
 ---------------------------------------
 *** Please tell me who you are.
 
