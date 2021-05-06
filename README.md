@@ -2,15 +2,22 @@
 
 SMALL FILES - Work for all cases
 ----------------------------------
-git init 
+* open folden location - where u have project
 
-git remote add origin https://
+* open location of - folder & write - cmd
 
-git add .
 
-git commit -m "Initial working commit"
+Then perform -> these "OPERATIONS" -> in CMD::
 
-git push origin master --force
+1). git init 
+
+2). git remote add origin https://
+
+3). git add .
+
+4). git commit -m "Initial working commit"
+
+5). git push origin master --force
 
 
 LARGE FILES/LFS
