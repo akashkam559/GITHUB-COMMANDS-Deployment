@@ -23,7 +23,14 @@ Then perform -> these "OPERATIONS" -> in CMD::
 4). git commit -m "Initial working commit"
 
 5). git push origin master --force
+====================================================================
+problem - in pushing code => watch this ::
+* go to control panel -> manage credendial -> find github -> delete all previous credentials -> GITHUB small Box will open -> enter ID & pass > again enter ID & Pass - in CMD (if asked)
 
+* or watch this video -> to get fixed
+https://www.youtube.com/watch?v=R8QmCCcm0GU
+https://www.youtube.com/watch?v=KnuaVfi5MFU
+====================================================================
 
 LARGE FILES/LFS
 ----------------
