@@ -66,3 +66,16 @@ Run
 
 to set your account's default identity.
 Omit --global to set the identity only in this repository.
+==============================================================================
+==============================================================================
+Deployement
+-----------
+1). make account 
+
+2). create app => by giving to app
+
+3). connect with -> GITHUB pipeline
+
+4). choose pipeline -> master / Main  
+
+5). deploy button
