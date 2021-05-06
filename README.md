@@ -8,10 +8,9 @@ SMALL FILES - Work for all cases
 
 HOW TO ADD IMAGE IN GITHUB -> click on the New Issue button and drag and drop your image inside Leave a comment box.
 
-![WhatsApp Image 2021-05-06 at 12 43 53 PM](https://user-images.githubusercontent.com/41515202/117257333-64bf7480-ae69-11eb-838b-e92620a7ba5e.jpeg)
-
 ![WhatsApp Image 2021-05-06 at 12 43 46 PM](https://user-images.githubusercontent.com/41515202/117257356-69842880-ae69-11eb-9961-bea900d6c010.jpeg)
 
+![WhatsApp Image 2021-05-06 at 12 43 53 PM](https://user-images.githubusercontent.com/41515202/117257333-64bf7480-ae69-11eb-838b-e92620a7ba5e.jpeg)
 
 Then perform -> these "OPERATIONS" -> in CMD::
 
