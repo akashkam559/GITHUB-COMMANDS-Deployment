@@ -23,7 +23,9 @@ Then perform -> these "OPERATIONS" -> in CMD::
 4). git commit -m "Initial working commit"
 
 5). git push origin master --force
+
 ====================================================================
+
 problem - in pushing code => watch this ::
 * go to control panel -> manage credendial -> find github -> delete all previous credentials -> GITHUB small Box will open -> enter ID & pass > again enter ID & Pass - in CMD (if asked)
 
