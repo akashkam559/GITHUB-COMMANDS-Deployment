@@ -61,6 +61,8 @@ Extras
 
 * git status (check branch status)
 
+* git diff (show what changes have u done)
+
 ====================================================================
 
 
