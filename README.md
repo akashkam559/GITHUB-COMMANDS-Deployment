@@ -9,7 +9,7 @@
 
 
 GITHUB COMMANDS -> SMALL FILES - Work for all cases
--------------------=-------------------------------
+---------------------------
 * open folden location - where u have project
 
 * open location of - folder & write - cmd
