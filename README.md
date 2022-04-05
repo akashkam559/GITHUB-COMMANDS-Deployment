@@ -23,15 +23,41 @@ HOW TO ADD IMAGE IN GITHUB -> click on the New Issue button and drag and drop yo
 
 Then perform -> these "OPERATIONS" -> in CMD::
 
-1). git init 
+1).  git init 
 
-2). git remote add origin https://
+2).  git remote add origin https://  (add files to repo created by you)
 
-3). git add .
+3).  git add . (add all files)
+(or) git add lol.txt (only add given file i.e., lol.txt)
 
-4). git commit -m "Initial working commit"
+4).  git commit -m "Initial working commit" (alwayas after adding files -> always save/commit)
 
-5). git push origin master --force
+5).  git push origin master --force (push all the files from local folder -> to repo)
+(or) git push -u origin main 
+====================================================================
+Extras
+======
+* mkdir (create new directory)
+
+* cd (move into directory)
+
+* ls (list the contents of a folder/directory)
+
+* pwd (show your present/current directory)
+
+* git clone https:// (clone)
+
+* git branch -feature-a (create branch)
+
+* git checkout -feature-a (switch to branche(s))
+
+* git merge (merge into one branch)
+
+* git status (check branch status)
+
+* git pull 
+
+
 
 ====================================================================
 
