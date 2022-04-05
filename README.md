@@ -25,7 +25,7 @@ Then perform -> these "OPERATIONS" -> in CMD::
 
 1).  git init --------------------------------------------------------------> (create .git folder)
 
-2).  git remote add origin https://  ----------------------------------------> (add/upload all files to -> given repo created by you)
+2).  git remote add origin https://  ----------------------------------------> (add/upload all files to -> existing/given repo created by you)
 
 3.1).  git add . --------------------------------------------------------------> (add/upload all files)
 
