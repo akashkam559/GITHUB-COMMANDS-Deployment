@@ -23,17 +23,19 @@ HOW TO ADD IMAGE IN GITHUB -> click on the New Issue button and drag and drop yo
 
 Then perform -> these "OPERATIONS" -> in CMD::
 
-1).  git init --------------------------------------------------------------> (create .git folder)
+1).  git init ----------------------------------------------------------------> (create .git folder)
 
-2).  git remote add origin https://  ----------------------------------------> (add/upload all files to -> existing/given repo created by you)
+2).  git clone https:// ------------------------------------------------------> (clone)
 
-3.1).  git add . --------------------------------------------------------------> (add/upload all files)
+3).  git remote add origin https://  -----------------------------------------> (add/upload all files to -> existing/given repo created by you)
 
-3.2).  git add lol.txt --------------------------------------------------------> (only add/upload given file i.e., lol.txt)
+4.1).  git add . -------------------------------------------------------------> (add/upload all files)
 
-4).  git commit -m "Initial working commit" --------------------------------> (alwayas after adding files -> always save/commit)
+4.2).  git add lol.txt -------------------------------------------------------> (only add/upload given file i.e., lol.txt)
 
-5).  git push origin master --force ----------------------------------------> (push all the files from local folder -> to repo) 
+5).  git commit -m "Initial working commit" ----------------------------------> (alwayas after adding files -> always save/commit)
+
+6).  git push origin master --force ------------------------------------------> (push all the files from local folder -> to repo) 
 (or) git push -u origin main
 
 
@@ -47,7 +49,7 @@ Extras
 
 * pwd (show your present/current directory)
 
-* git clone https:// (clone)
+
 
 * git branch -feature-a (create branch)
 
@@ -58,8 +60,6 @@ Extras
 * git status (check branch status)
 
 * git pull 
-
-
 
 ====================================================================
 
