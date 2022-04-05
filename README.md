@@ -35,7 +35,7 @@ Then perform -> these "OPERATIONS" -> in CMD::
 5).  git push origin master --force (push all the files from local folder -> to repo) 
 (or) git push -u origin main
 
-===============================
+
 Extras
 ======
 * mkdir (create new directory)
