@@ -48,6 +48,9 @@ Extras
 
 * pwd (show your present/current directory)
 
+* git pull 
+
+* fork
 
 
 * git branch -feature-a (create branch)
@@ -57,8 +60,6 @@ Extras
 * git merge (merge into one branch)
 
 * git status (check branch status)
-
-* git pull 
 
 ====================================================================
 
