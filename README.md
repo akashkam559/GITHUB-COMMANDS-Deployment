@@ -6,6 +6,13 @@
 
 * https://docs.github.com/en/get-started/using-git/about-git
 
+* Colt -> https://www.youtube.com/watch?v=nhNq2kIvi9s&t=1s
+
+* WebDev Simplified -> https://www.youtube.com/watch?v=IHaTbJPdB-s&t=1244s
+
+* Love Babbar -> https://www.youtube.com/watch?v=uj4fy4kpaOA
+
+* Anuj -> https://www.youtube.com/watch?v=uaeKhfhYE0U
 
 
 GITHUB COMMANDS -> SMALL FILES - Work for all cases
@@ -53,15 +60,21 @@ Extras
 * fork
 
 
-* git branch -feature-a (create branch)
+* git diff (show what changes have u done)
 
-* git checkout -feature-a (switch to branche(s))
-
-* git merge (merge into one branch)
+* git log (show all summary/logs)
 
 * git status (check branch status)
 
-* git diff (show what changes have u done)
+* git branch (show branch)
+
+* git branch -b AkashBranch (or) git branch AkashBranch (create branch)
+
+* git branch -d AkashBranch (delete branch)
+
+* git checkout -b AkashBranch (create/switch to branche(s))
+
+* git merge -b AkashBranch (or) git merge AkashBranch (merge into one branch)
 
 ====================================================================
 
