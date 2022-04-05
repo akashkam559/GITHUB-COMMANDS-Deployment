@@ -4,11 +4,12 @@
 # Refer this handbook for GITHUB
 ==================================
 
-# https://docs.github.com/en/get-started/using-git/about-git
+* https://docs.github.com/en/get-started/using-git/about-git
 
 
-SMALL FILES - Work for all cases
-----------------------------------
+
+GITHUB COMMANDS -> SMALL FILES - Work for all cases
+-------------------=-------------------------------
 * open folden location - where u have project
 
 * open location of - folder & write - cmd
