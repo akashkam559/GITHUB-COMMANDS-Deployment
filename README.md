@@ -25,11 +25,11 @@ Then perform -> these "OPERATIONS" -> in CMD::
 
 1).  git init --------------------------------------------------------------> (create .git folder)
 
-2).  git remote add origin https://  ----------------------------------------> (add files to repo created by you)
+2).  git remote add origin https://  ----------------------------------------> (add/upload all files to -> given repo created by you)
 
-3.1).  git add . --------------------------------------------------------------> (add all files)
+3.1).  git add . --------------------------------------------------------------> (add/upload all files)
 
-3.2).  git add lol.txt --------------------------------------------------------> (only add given file i.e., lol.txt)
+3.2).  git add lol.txt --------------------------------------------------------> (only add/upload given file i.e., lol.txt)
 
 4).  git commit -m "Initial working commit" --------------------------------> (alwayas after adding files -> always save/commit)
 
