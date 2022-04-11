@@ -72,7 +72,7 @@ Extras
 
 * git branch -d AkashBranch (delete branch)
 
-* git checkout -b AkashBranch (create/switch to branche(s))
+* git checkout -b AkashBranch (or) git checkout -b AkashBranch  (create/switch to branche(s))
 
 * git merge -b AkashBranch (or) git merge AkashBranch (merge into one branch)
 
