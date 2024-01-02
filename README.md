@@ -41,7 +41,7 @@ Then perform -> these "OPERATIONS" -> in CMD::
 
 5).  git commit -m "Initial working commit" ----------------------------------> (alwayas after adding files -> always save/commit)
 
-6).  git push origin master --force ------------------------------------------> (push all the files from local folder -> to repo) 
+6).  git push origin master --force (git push origin HEAD:master) ------------------------------------------> (push all the files from local folder -> to repo) 
 (or) git push -u origin main
 
 
