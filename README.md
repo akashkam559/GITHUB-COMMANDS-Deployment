@@ -27,6 +27,9 @@ HOW TO ADD IMAGE IN GITHUB -> click on the New Issue button and drag and drop yo
 
 ![WhatsApp Image 2021-05-06 at 12 43 53 PM](https://user-images.githubusercontent.com/41515202/117257333-64bf7480-ae69-11eb-838b-e92620a7ba5e.jpeg)
 
+![gtihub](https://github.com/akashkam559/GITHUB-COMMANDS-Deployment/assets/41515202/4bc1d718-d9e4-48fb-b84c-25a7546bd8e0)
+
+
 Then perform -> these "OPERATIONS" -> in CMD::
 
 1).  git init ----------------------------------------------------------------> (create .git folder)
