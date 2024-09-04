@@ -38,15 +38,17 @@ Then perform -> these "OPERATIONS" -> in CMD::
 
 3).  git remote add origin https://  -----------------------------------------> (add/upload all files to -> existing/given repo created by you)
 
+4.0) git branch -M main -------------------------------------------------------------> (to check whether u have another branch like master than main branch. This will make sure all files upload to main <-> not on master)
+
 4.1).  git add . -------------------------------------------------------------> (add/upload all files)
 
 4.2).  git add lol.txt -------------------------------------------------------> (only add/upload given file i.e., lol.txt)
 
 5).  git commit -m "Initial working commit" ----------------------------------> (alwayas after adding files -> always save/commit)
 
-6).  git push origin master --force (  git push origin HEAD:master  ) ------------------------------------------> (push all the files from local folder -> to repo) 
+6).  git push -u origin main  ----------------------------------------------------------------------------> (push all the files from local folder -> to repo -> in MAIN BRANCH) 
 ( OR ) 
-git push -u origin main
+git push origin master --force (  git push origin HEAD:master  ) ------------------------------------------> (push all the files from local folder -> to repo -> in MASTER BRANCH) 
 
 
 Extras
