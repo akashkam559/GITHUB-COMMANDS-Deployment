@@ -44,7 +44,14 @@ Then perform -> these "OPERATIONS" -> in CMD::
 
 4.2).  git add lol.txt -------------------------------------------------------> (only add/upload given file i.e., lol.txt)
 
-5).  git commit -m "Initial working commit" ----------------------------------> (alwayas after adding files -> always save/commit)
+4.3)   git add "ALPINE PROJECT" -------------------------------------------------------> (only add/upload given FOLDER  i.e., AKASH FOLDER)
+i want to upoad my folder in github repo & i have 19 folders but i want to upoad "ALPINE PROJECT" folder Especially not thers 18 folder.
+i did git init git remote add origin https://github.com
+I dont want to use -> git add . -> it will upload all folder
+whats commant & how to uplaod especially 1 folder not all
+
+5.1).  git commit -m "Initial working commit" ---------------------------------------------> (alwayas after adding files -> always save/commit)
+5.2).  git commit -m "Upload only ALPINE PROJECT folder" ----------------------------------> (alwayas after adding files -> always save/commit -> FOR UPLOADING FOLDER)
 
 6.1).  git push -u origin main ----------------------------------------------------------------------------> (push all the files from local folder -> to repo -> in MAIN BRANCH) 
 ( OR ) 
